@@ -1,0 +1,26 @@
+.box {
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+  display: inline-block;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+#pink {
+  background-color: pink;
+}
+#aquamarine {
+  background-color: aquamarine;
+}
+
+#aqua {
+  background-color: aqua;
+}
+
+.canvas {
+  text-align: center;
+  margin: 100px;
+}

@@ -1,0 +1,33 @@
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem;
+  border-bottom: solid 1px #aaa;
+  background-color: #eee;
+}
+
+nav a {
+  display: inline-block;
+  min-width: 9rem;
+  padding: 0.5rem;
+  border-radius: 0.2rem;
+  background-color: rgba(115, 113, 110, 0.884);
+  border: solid 1px rgb(22, 22, 22);
+  text-align: center;
+  text-decoration: none;
+  color: #1b1b1b;
+  box-shadow: 1px 2px 1px;
+}
+
+div a {
+  display: block;
+  text-align: center;
+  border: 1px solid white;
+  background-color: white;
+  padding: 10px;
+  text-decoration: none;
+  color: #212121;
+  border-radius: 30px;
+}
